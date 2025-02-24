@@ -62,3 +62,4 @@ total_time = time.time() - start_time
 # 🔹 Step 4: Log Energy Consumption
 print(f"Total Training Time: {total_time:.2f} seconds")
 print(f"Energy Consumed (kgCO2): {tracker.final_emissions}")
+
